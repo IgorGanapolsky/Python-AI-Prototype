@@ -1,0 +1,1317 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Container",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TextIO",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Container",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pdfminer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfminer",
+        "description": "pdfminer",
+        "detail": "pdfminer",
+        "documentation": {}
+    },
+    {
+        "label": "PDFDocument",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {}
+    },
+    {
+        "label": "PDFNoOutlines",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {}
+    },
+    {
+        "label": "PDFXRefFallback",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {}
+    },
+    {
+        "label": "PDFPage",
+        "importPath": "pdfminer.pdfpage",
+        "description": "pdfminer.pdfpage",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfpage",
+        "documentation": {}
+    },
+    {
+        "label": "PDFParser",
+        "importPath": "pdfminer.pdfparser",
+        "description": "pdfminer.pdfparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfparser",
+        "documentation": {}
+    },
+    {
+        "label": "PDFObjectNotFound",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "PDFValueError",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "PDFStream",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "PDFObjRef",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "resolve1",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "stream_value",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "PSKeyword",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {}
+    },
+    {
+        "label": "PSLiteral",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {}
+    },
+    {
+        "label": "LIT",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {}
+    },
+    {
+        "label": "isnumber",
+        "importPath": "pdfminer.utils",
+        "description": "pdfminer.utils",
+        "isExtraImport": true,
+        "detail": "pdfminer.utils",
+        "documentation": {}
+    },
+    {
+        "label": "AnyIO",
+        "importPath": "pdfminer.utils",
+        "description": "pdfminer.utils",
+        "isExtraImport": true,
+        "detail": "pdfminer.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pdfminer.high_level",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfminer.high_level",
+        "description": "pdfminer.high_level",
+        "detail": "pdfminer.high_level",
+        "documentation": {}
+    },
+    {
+        "label": "LAParams",
+        "importPath": "pdfminer.layout",
+        "description": "pdfminer.layout",
+        "isExtraImport": true,
+        "detail": "pdfminer.layout",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "crewai",
+        "description": "crewai",
+        "isExtraImport": true,
+        "detail": "crewai",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "crewai",
+        "description": "crewai",
+        "isExtraImport": true,
+        "detail": "crewai",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "crewai",
+        "description": "crewai",
+        "isExtraImport": true,
+        "detail": "crewai",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "isExtraImport": true,
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "isExtraImport": true,
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "FileReadTool",
+        "importPath": "crewai_tools",
+        "description": "crewai_tools",
+        "isExtraImport": true,
+        "detail": "crewai_tools",
+        "documentation": {}
+    },
+    {
+        "label": "SerperDevTool",
+        "importPath": "crewai_tools",
+        "description": "crewai_tools",
+        "isExtraImport": true,
+        "detail": "crewai_tools",
+        "documentation": {}
+    },
+    {
+        "label": "textwrap",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "textwrap",
+        "description": "textwrap",
+        "detail": "textwrap",
+        "documentation": {}
+    },
+    {
+        "label": "dedent",
+        "importPath": "textwrap",
+        "description": "textwrap",
+        "isExtraImport": true,
+        "detail": "textwrap",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationalRetrievalChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDF4",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "PyPDF4",
+        "description": "PyPDF4",
+        "detail": "PyPDF4",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores.chroma",
+        "description": "langchain_community.vectorstores.chroma",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "pdfplumber",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfplumber",
+        "description": "pdfplumber",
+        "detail": "pdfplumber",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain.docstore.document",
+        "description": "langchain.docstore.document",
+        "isExtraImport": true,
+        "detail": "langchain.docstore.document",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "convert_doc_to_images",
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "isExtraImport": true,
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "PDF_DIRECTORY",
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "isExtraImport": true,
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "IMAGES_DIRECTORY",
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "isExtraImport": true,
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_image",
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "isExtraImport": true,
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_img_uri",
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "isExtraImport": true,
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "PDF_DIRECTORY",
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "isExtraImport": true,
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "IMAGES_DIRECTORY",
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "isExtraImport": true,
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "concurrent",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "concurrent",
+        "description": "concurrent",
+        "detail": "concurrent",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDF2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "PyPDF2",
+        "description": "PyPDF2",
+        "detail": "PyPDF2",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "openai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openai",
+        "description": "openai",
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "convert_from_path",
+        "importPath": "pdf2image",
+        "description": "pdf2image",
+        "isExtraImport": true,
+        "detail": "pdf2image",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "escape",
+        "kind": 2,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "def escape(s: Union[str, bytes]) -> str:\n    if isinstance(s, bytes):\n        us = str(s, \"latin-1\")\n    else:\n        us = s\n    return ESC_PAT.sub(lambda m: \"&#%d;\" % ord(m.group(0)), us)\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write(\"<null />\")\n        return",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumpxml",
+        "kind": 2,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "def dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write(\"<null />\")\n        return\n    if isinstance(obj, dict):\n        out.write('<dict size=\"%d\">\\n' % len(obj))\n        for (k, v) in obj.items():\n            out.write(\"<key>%s</key>\\n\" % k)\n            out.write(\"<value>\")\n            dumpxml(out, v)",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumptrailers",
+        "kind": 2,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "def dumptrailers(\n    out: TextIO, doc: PDFDocument, show_fallback_xref: bool = False\n) -> None:\n    for xref in doc.xrefs:\n        if not isinstance(xref, PDFXRefFallback) or show_fallback_xref:\n            out.write(\"<trailer>\\n\")\n            dumpxml(out, xref.get_trailer())\n            out.write(\"\\n</trailer>\\n\\n\")\n    no_xrefs = all(isinstance(xref, PDFXRefFallback) for xref in doc.xrefs)\n    if no_xrefs and not show_fallback_xref:",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumpallobjs",
+        "kind": 2,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "def dumpallobjs(\n    out: TextIO,\n    doc: PDFDocument,\n    codec: Optional[str] = None,\n    show_fallback_xref: bool = False,\n) -> None:\n    visited = set()\n    out.write(\"<pdf>\")\n    for xref in doc.xrefs:\n        for objid in xref.get_objids():",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumpoutline",
+        "kind": 2,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "def dumpoutline(\n    outfp: TextIO,\n    fname: str,\n    objids: Any,\n    pagenos: Container[int],\n    password: str = \"\",\n    dumpall: bool = False,\n    codec: Optional[str] = None,\n    extractdir: Optional[str] = None,\n) -> None:",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "extractembedded",
+        "kind": 2,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "def extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get(\"UF\") or cast(bytes, obj.get(\"F\")).decode())\n        fileref = obj[\"EF\"].get(\"UF\") or obj[\"EF\"].get(\"F\")\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = (\n                \"unable to process PDF: reference for %r is not a \"\n                \"PDFStream\" % filename\n            )",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumppdf",
+        "kind": 2,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "def dumppdf(\n    outfp: TextIO,\n    fname: str,\n    objids: Iterable[int],\n    pagenos: Container[int],\n    password: str = \"\",\n    dumpall: bool = False,\n    codec: Optional[str] = None,\n    extractdir: Optional[str] = None,\n    show_fallback_xref: bool = False,",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "create_parser",
+        "kind": 2,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "def create_parser() -> ArgumentParser:\n    parser = ArgumentParser(description=__doc__, add_help=True)\n    parser.add_argument(\n        \"files\",\n        type=str,\n        default=None,\n        nargs=\"+\",\n        help=\"One or more paths to PDF files.\",\n    )\n    parser.add_argument(",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "def main(argv: Optional[List[str]] = None) -> None:\n    parser = create_parser()\n    args = parser.parse_args(args=argv)\n    if args.debug:\n        logging.getLogger().setLevel(logging.DEBUG)\n    if args.outfile == \"-\":\n        outfp = sys.stdout\n    else:\n        outfp = open(args.outfile, \"w\")\n    if args.objects:",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nESC_PAT = re.compile(r'[\\000-\\037&<>()\"\\042\\047\\134\\177-\\377]')\ndef escape(s: Union[str, bytes]) -> str:\n    if isinstance(s, bytes):\n        us = str(s, \"latin-1\")\n    else:\n        us = s\n    return ESC_PAT.sub(lambda m: \"&#%d;\" % ord(m.group(0)), us)\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "ESC_PAT",
+        "kind": 5,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "ESC_PAT = re.compile(r'[\\000-\\037&<>()\"\\042\\047\\134\\177-\\377]')\ndef escape(s: Union[str, bytes]) -> str:\n    if isinstance(s, bytes):\n        us = str(s, \"latin-1\")\n    else:\n        us = s\n    return ESC_PAT.sub(lambda m: \"&#%d;\" % ord(m.group(0)), us)\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write(\"<null />\")",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "LITERAL_FILESPEC",
+        "kind": 5,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "LITERAL_FILESPEC = LIT(\"Filespec\")\nLITERAL_EMBEDDEDFILE = LIT(\"EmbeddedFile\")\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get(\"UF\") or cast(bytes, obj.get(\"F\")).decode())\n        fileref = obj[\"EF\"].get(\"UF\") or obj[\"EF\"].get(\"F\")\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = (\n                \"unable to process PDF: reference for %r is not a \"",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "LITERAL_EMBEDDEDFILE",
+        "kind": 5,
+        "importPath": ".venv.bin.dumppdf",
+        "description": ".venv.bin.dumppdf",
+        "peekOfCode": "LITERAL_EMBEDDEDFILE = LIT(\"EmbeddedFile\")\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get(\"UF\") or cast(bytes, obj.get(\"F\")).decode())\n        fileref = obj[\"EF\"].get(\"UF\") or obj[\"EF\"].get(\"F\")\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = (\n                \"unable to process PDF: reference for %r is not a \"\n                \"PDFStream\" % filename",
+        "detail": ".venv.bin.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "float_or_disabled",
+        "kind": 2,
+        "importPath": ".venv.bin.pdf2txt",
+        "description": ".venv.bin.pdf2txt",
+        "peekOfCode": "def float_or_disabled(x: str) -> Optional[float]:\n    if x.lower().strip() == \"disabled\":\n        return None\n    try:\n        return float(x)\n    except ValueError:\n        raise argparse.ArgumentTypeError(\"invalid float value: {}\".format(x))\ndef extract_text(\n    files: Iterable[str] = [],\n    outfile: str = \"-\",",
+        "detail": ".venv.bin.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text",
+        "kind": 2,
+        "importPath": ".venv.bin.pdf2txt",
+        "description": ".venv.bin.pdf2txt",
+        "peekOfCode": "def extract_text(\n    files: Iterable[str] = [],\n    outfile: str = \"-\",\n    laparams: Optional[LAParams] = None,\n    output_type: str = \"text\",\n    codec: str = \"utf-8\",\n    strip_control: bool = False,\n    maxpages: int = 0,\n    page_numbers: Optional[Container[int]] = None,\n    password: str = \"\",",
+        "detail": ".venv.bin.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "create_parser",
+        "kind": 2,
+        "importPath": ".venv.bin.pdf2txt",
+        "description": ".venv.bin.pdf2txt",
+        "peekOfCode": "def create_parser() -> argparse.ArgumentParser:\n    parser = argparse.ArgumentParser(description=__doc__, add_help=True)\n    parser.add_argument(\n        \"files\",\n        type=str,\n        default=None,\n        nargs=\"+\",\n        help=\"One or more paths to PDF files.\",\n    )\n    parser.add_argument(",
+        "detail": ".venv.bin.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": ".venv.bin.pdf2txt",
+        "description": ".venv.bin.pdf2txt",
+        "peekOfCode": "def parse_args(args: Optional[List[str]]) -> argparse.Namespace:\n    parsed_args = create_parser().parse_args(args=args)\n    # Propagate parsed layout parameters to LAParams object\n    if parsed_args.no_laparams:\n        parsed_args.laparams = None\n    else:\n        parsed_args.laparams = LAParams(\n            line_overlap=parsed_args.line_overlap,\n            char_margin=parsed_args.char_margin,\n            line_margin=parsed_args.line_margin,",
+        "detail": ".venv.bin.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.bin.pdf2txt",
+        "description": ".venv.bin.pdf2txt",
+        "peekOfCode": "def main(args: Optional[List[str]] = None) -> int:\n    parsed_args = parse_args(args)\n    outfp = extract_text(**vars(parsed_args))\n    outfp.close()\n    return 0\nif __name__ == \"__main__\":\n    sys.exit(main())",
+        "detail": ".venv.bin.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "OUTPUT_TYPES",
+        "kind": 5,
+        "importPath": ".venv.bin.pdf2txt",
+        "description": ".venv.bin.pdf2txt",
+        "peekOfCode": "OUTPUT_TYPES = ((\".htm\", \"html\"), (\".html\", \"html\"), (\".xml\", \"xml\"), (\".tag\", \"tag\"))\ndef float_or_disabled(x: str) -> Optional[float]:\n    if x.lower().strip() == \"disabled\":\n        return None\n    try:\n        return float(x)\n    except ValueError:\n        raise argparse.ArgumentTypeError(\"invalid float value: {}\".format(x))\ndef extract_text(\n    files: Iterable[str] = [],",
+        "detail": ".venv.bin.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "AgentsFactory",
+        "kind": 6,
+        "importPath": "Agents.agents_factory",
+        "description": "Agents.agents_factory",
+        "peekOfCode": "class AgentsFactory:\n    def __init__(self, config_path):\n        self.config = load_config(config_path)\n    def create_agent(\n            self,\n            agent_type: str,\n            llm: Any,\n            tools: Optional[List] = None,\n            verbose: bool = True,\n            allow_delegation: bool = False,",
+        "detail": "Agents.agents_factory",
+        "documentation": {}
+    },
+    {
+        "label": "TasksFactory",
+        "kind": 6,
+        "importPath": "Agents.tasks_factory",
+        "description": "Agents.tasks_factory",
+        "peekOfCode": "class TasksFactory:\n    def __init__(self, config_path):\n        self.config = load_config(config_path)\n    def create_task(\n            self,\n            task_type: str,\n            agent: Agent,\n            query: Optional[str] = None,\n            output_schema: Optional[str] = None,\n    ):",
+        "detail": "Agents.tasks_factory",
+        "documentation": {}
+    },
+    {
+        "label": "make_chain",
+        "kind": 2,
+        "importPath": "Chat.Chat",
+        "description": "Chat.Chat",
+        "peekOfCode": "def make_chain(model_name: str, vector_store: Chroma) -> ConversationalRetrievalChain:\n    \"\"\"\n    Creates a Chroma vector store and persists the documents to disk.\n    :return: A chain with the specified model using the vector DB for retrieval.\n    \"\"\"\n    model = ChatOpenAI(\n        model_name=model_name,\n        temperature=\"0\",\n        verbose=True\n    )",
+        "detail": "Chat.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "extract_metadata_from_pdf",
+        "kind": 2,
+        "importPath": "Chat.ExtractPDF",
+        "description": "Chat.ExtractPDF",
+        "peekOfCode": "def extract_metadata_from_pdf(file_path: str) -> dict:\n    \"\"\"\n    Extracts the PDF file metadata.\n    :param file_path: The path to the PDF file.\n    :return: A dictionary containing the title and creation_date.\n    \"\"\"\n    with pdfplumber.open(file_path) as pdf:\n        with open(file_path, \"rb\") as pdf_file:\n            reader = PyPDF4.PdfFileReader(pdf_file)\n            metadata = reader.getDocumentInfo()",
+        "detail": "Chat.ExtractPDF",
+        "documentation": {}
+    },
+    {
+        "label": "extract_pages_from_pdf",
+        "kind": 2,
+        "importPath": "Chat.ExtractPDF",
+        "description": "Chat.ExtractPDF",
+        "peekOfCode": "def extract_pages_from_pdf(file_path: str) -> List[Tuple[int, str]]:\n    \"\"\"\n    Extracts the text from each page of the PDF.\n    :param file_path: The path to the PDF file.\n    :return: A list of tuples containing the page number and the extracted text.\n    \"\"\"\n    if not os.path.isfile(file_path):\n        raise FileNotFoundError(f\"File not found: {file_path}\")\n    with pdfplumber.open(file_path) as pdf:\n        pages = []",
+        "detail": "Chat.ExtractPDF",
+        "documentation": {}
+    },
+    {
+        "label": "parse_pdf",
+        "kind": 2,
+        "importPath": "Chat.ExtractPDF",
+        "description": "Chat.ExtractPDF",
+        "peekOfCode": "def parse_pdf(file_path: str) -> Tuple[List[Tuple[int, str]], Dict[str, str]]:\n    \"\"\"\n    Extracts the title and text from each page of the PDF.\n    :param file_path: The path to the PDF file.\n    :return: A tuple containing the title and a list of tuples with page numbers and extracted text.\n    \"\"\"\n    if not os.path.isfile(file_path):\n        raise FileNotFoundError(f\"File not found: {file_path}\")\n    metadata = extract_metadata_from_pdf(file_path)\n    pages = extract_pages_from_pdf(file_path)",
+        "detail": "Chat.ExtractPDF",
+        "documentation": {}
+    },
+    {
+        "label": "merge_hyphenated_words",
+        "kind": 2,
+        "importPath": "Chat.ExtractPDF",
+        "description": "Chat.ExtractPDF",
+        "peekOfCode": "def merge_hyphenated_words(text: str) -> str:\n    return re.sub(r\"(\\w)-\\n(\\w)\", r\"\\1\\2\", text)\ndef fix_newlines(text: str) -> str:\n    return re.sub(r\"(?<!\\n)\\n(?!\\n)\", \" \", text)\ndef remove_multiple_newlines(text: str) -> str:\n    return re.sub(r\"\\n{2,}\", \"\\n\", text)\ndef clean_text(\n        pages: List[Tuple[int, str]], cleaning_functions: List[Callable[[str], str]]\n) -> List[Tuple[int, str]]:\n    cleaned_pages = []",
+        "detail": "Chat.ExtractPDF",
+        "documentation": {}
+    },
+    {
+        "label": "fix_newlines",
+        "kind": 2,
+        "importPath": "Chat.ExtractPDF",
+        "description": "Chat.ExtractPDF",
+        "peekOfCode": "def fix_newlines(text: str) -> str:\n    return re.sub(r\"(?<!\\n)\\n(?!\\n)\", \" \", text)\ndef remove_multiple_newlines(text: str) -> str:\n    return re.sub(r\"\\n{2,}\", \"\\n\", text)\ndef clean_text(\n        pages: List[Tuple[int, str]], cleaning_functions: List[Callable[[str], str]]\n) -> List[Tuple[int, str]]:\n    cleaned_pages = []\n    for page_num, text in pages:\n        for cleaning_function in cleaning_functions:",
+        "detail": "Chat.ExtractPDF",
+        "documentation": {}
+    },
+    {
+        "label": "remove_multiple_newlines",
+        "kind": 2,
+        "importPath": "Chat.ExtractPDF",
+        "description": "Chat.ExtractPDF",
+        "peekOfCode": "def remove_multiple_newlines(text: str) -> str:\n    return re.sub(r\"\\n{2,}\", \"\\n\", text)\ndef clean_text(\n        pages: List[Tuple[int, str]], cleaning_functions: List[Callable[[str], str]]\n) -> List[Tuple[int, str]]:\n    cleaned_pages = []\n    for page_num, text in pages:\n        for cleaning_function in cleaning_functions:\n            text = cleaning_function(text)\n        cleaned_pages.append((page_num, text))",
+        "detail": "Chat.ExtractPDF",
+        "documentation": {}
+    },
+    {
+        "label": "clean_text",
+        "kind": 2,
+        "importPath": "Chat.ExtractPDF",
+        "description": "Chat.ExtractPDF",
+        "peekOfCode": "def clean_text(\n        pages: List[Tuple[int, str]], cleaning_functions: List[Callable[[str], str]]\n) -> List[Tuple[int, str]]:\n    cleaned_pages = []\n    for page_num, text in pages:\n        for cleaning_function in cleaning_functions:\n            text = cleaning_function(text)\n        cleaned_pages.append((page_num, text))\n    return cleaned_pages\ndef text_to_docs(",
+        "detail": "Chat.ExtractPDF",
+        "documentation": {}
+    },
+    {
+        "label": "text_to_docs",
+        "kind": 2,
+        "importPath": "Chat.ExtractPDF",
+        "description": "Chat.ExtractPDF",
+        "peekOfCode": "def text_to_docs(\n        text: List[Tuple[int, str]], metadata: Dict[str, str]\n) -> List[Document]:\n    \"\"\"\n    Converts a list of tuples of page numbers and extracted text to a list of Documents.\n    \"\"\"\n    doc_chunks = []\n    for page_num, page in text:\n        text_splitter = RecursiveCharacterTextSplitter(\n            chunk_size=1000,",
+        "detail": "Chat.ExtractPDF",
+        "documentation": {}
+    },
+    {
+        "label": "store_chunks",
+        "kind": 2,
+        "importPath": "Chat.ExtractPDF",
+        "description": "Chat.ExtractPDF",
+        "peekOfCode": "def store_chunks(document_chunks: List[Document], collection_name: str, directory: str):\n    \"\"\"\n    Creates a Chroma vector store and persists the documents to disk.\n    :param document_chunks: A list of Documents to be stored.\n    :param collection_name: Name of this collection.\n    :param directory: Location on disk to persist the data.\n    \"\"\"\n    embeddings = OpenAIEmbeddings()\n    vector_store = Chroma.from_documents(\n        document_chunks,",
+        "detail": "Chat.ExtractPDF",
+        "documentation": {}
+    },
+    {
+        "label": "load_image_from_dir",
+        "kind": 2,
+        "importPath": "OpenAI.convert_pdfs_to_images",
+        "description": "OpenAI.convert_pdfs_to_images",
+        "peekOfCode": "def load_image_from_dir(image_number, directory=IMAGES_DIRECTORY):\n    image_path = f\"{directory}/image_{image_number}.png\"\n    if not os.path.exists(image_path):  # this line checks if the file exists\n        raise FileNotFoundError(f\"The file {image_path} does not exist!\")\n    loaded_image = Image.open(image_path)\n    return loaded_image\ndef remove_citations(text):\n    # The pattern matches strings like \"Liu et al. (2023a)\" and \"Zheng et al. (2023)\"\n    pattern = r\"\\b\\w+\\s+et al\\.\\s+\\(\\d{4}[a-z]?\\)\"\n    # Replace the matched patterns with an empty string",
+        "detail": "OpenAI.convert_pdfs_to_images",
+        "documentation": {}
+    },
+    {
+        "label": "remove_citations",
+        "kind": 2,
+        "importPath": "OpenAI.convert_pdfs_to_images",
+        "description": "OpenAI.convert_pdfs_to_images",
+        "peekOfCode": "def remove_citations(text):\n    # The pattern matches strings like \"Liu et al. (2023a)\" and \"Zheng et al. (2023)\"\n    pattern = r\"\\b\\w+\\s+et al\\.\\s+\\(\\d{4}[a-z]?\\)\"\n    # Replace the matched patterns with an empty string\n    cleaned_text = re.sub(pattern, \"\", text)\n    return cleaned_text\ndef pretty_print_chat_message(role, content):\n    role = role.capitalize()\n    role_text = Text(role, style=\"bold\")\n    role_text.highlight_regex(r\"^(System|User|Assistant):\", \"bold magenta\")",
+        "detail": "OpenAI.convert_pdfs_to_images",
+        "documentation": {}
+    },
+    {
+        "label": "pretty_print_chat_message",
+        "kind": 2,
+        "importPath": "OpenAI.convert_pdfs_to_images",
+        "description": "OpenAI.convert_pdfs_to_images",
+        "peekOfCode": "def pretty_print_chat_message(role, content):\n    role = role.capitalize()\n    role_text = Text(role, style=\"bold\")\n    role_text.highlight_regex(r\"^(System|User|Assistant):\", \"bold magenta\")\n    content_text = Text(\"\\n\" + content, style=\"green\")\n    content_text.highlight_regex(r\"\\b(error|warning)\\b\", \"bold red\")\n    # Adding newline character at the start of content_text for clean text formatting\n    cleaned_content = remove_citations(str(content_text))\n    console.print(role_text, \": \", cleaned_content)\ndef iterate_pdfs():",
+        "detail": "OpenAI.convert_pdfs_to_images",
+        "documentation": {}
+    },
+    {
+        "label": "iterate_pdfs",
+        "kind": 2,
+        "importPath": "OpenAI.convert_pdfs_to_images",
+        "description": "OpenAI.convert_pdfs_to_images",
+        "peekOfCode": "def iterate_pdfs():\n    # Get a list of all pdfs in the directory\n    pdf_files = os.listdir(PDF_DIRECTORY)\n    # Iterate through each PDF file\n    for pdf_file in pdf_files:\n        with open(os.path.join(PDF_DIRECTORY, pdf_file), 'rb') as file:\n            # Convert each PDF file into a series of images.\n            convert_doc_to_images(pdf_file)\nif __name__ == \"__main__\":\n    iterate_pdfs()",
+        "detail": "OpenAI.convert_pdfs_to_images",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "OpenAI.convert_pdfs_to_images",
+        "description": "OpenAI.convert_pdfs_to_images",
+        "peekOfCode": "console = Console(width=200)\ndef load_image_from_dir(image_number, directory=IMAGES_DIRECTORY):\n    image_path = f\"{directory}/image_{image_number}.png\"\n    if not os.path.exists(image_path):  # this line checks if the file exists\n        raise FileNotFoundError(f\"The file {image_path} does not exist!\")\n    loaded_image = Image.open(image_path)\n    return loaded_image\ndef remove_citations(text):\n    # The pattern matches strings like \"Liu et al. (2023a)\" and \"Zheng et al. (2023)\"\n    pattern = r\"\\b\\w+\\s+et al\\.\\s+\\(\\d{4}[a-z]?\\)\"",
+        "detail": "OpenAI.convert_pdfs_to_images",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_doc_image",
+        "kind": 2,
+        "importPath": "OpenAI.process_all_images",
+        "description": "OpenAI.process_all_images",
+        "peekOfCode": "def analyze_doc_image(img_path):\n    print(\"Analyzing image: \" + img_path.filename)\n    img_uri = get_img_uri(img_path)\n    data = analyze_image(img_uri)\n    return data\ndef extract_text_from_doc(path):\n    pdf = open(path, 'rb')\n    pdf_reader = PyPDF2.PdfReader(pdf)\n    total_pages = len(pdf_reader.pages)\n    for page in range(total_pages):",
+        "detail": "OpenAI.process_all_images",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_doc",
+        "kind": 2,
+        "importPath": "OpenAI.process_all_images",
+        "description": "OpenAI.process_all_images",
+        "peekOfCode": "def extract_text_from_doc(path):\n    pdf = open(path, 'rb')\n    pdf_reader = PyPDF2.PdfReader(pdf)\n    total_pages = len(pdf_reader.pages)\n    for page in range(total_pages):\n        page_content = pdf_reader.pages[page]\n        extracted_text = page_content.extract_text()\n        page_text = []\n        page_text.append(extracted_text)\n    return page_text",
+        "detail": "OpenAI.process_all_images",
+        "documentation": {}
+    },
+    {
+        "label": "get_images_from_directory",
+        "kind": 2,
+        "importPath": "OpenAI.process_all_images",
+        "description": "OpenAI.process_all_images",
+        "peekOfCode": "def get_images_from_directory(directory_path):\n    image_files = [f for f in os.listdir(directory_path)]\n    images = [Image.open(os.path.join(directory_path, image_file)) for image_file in image_files]\n    return images\ndef process_all_docs_into_json():\n    docs = []\n    pdf_directory_path = Path(PDF_DIRECTORY)\n    print(\"pdf_directory: \", pdf_directory_path)\n    all_pdfs = list((base_dir / pdf_directory_path).glob('*.pdf'))\n    print(\"all_pdfs: \", all_pdfs)",
+        "detail": "OpenAI.process_all_images",
+        "documentation": {}
+    },
+    {
+        "label": "process_all_docs_into_json",
+        "kind": 2,
+        "importPath": "OpenAI.process_all_images",
+        "description": "OpenAI.process_all_images",
+        "peekOfCode": "def process_all_docs_into_json():\n    docs = []\n    pdf_directory_path = Path(PDF_DIRECTORY)\n    print(\"pdf_directory: \", pdf_directory_path)\n    all_pdfs = list((base_dir / pdf_directory_path).glob('*.pdf'))\n    print(\"all_pdfs: \", all_pdfs)\n    files = [item for item in all_pdfs if item.is_file()]\n    print(\"files: \", files)\n    for f in files:\n        path = f\"{pdf_directory_path}/{f}\"",
+        "detail": "OpenAI.process_all_images",
+        "documentation": {}
+    },
+    {
+        "label": "base_dir",
+        "kind": 5,
+        "importPath": "OpenAI.process_all_images",
+        "description": "OpenAI.process_all_images",
+        "peekOfCode": "base_dir = Path(__file__).resolve().parent.parent\ndef analyze_doc_image(img_path):\n    print(\"Analyzing image: \" + img_path.filename)\n    img_uri = get_img_uri(img_path)\n    data = analyze_image(img_uri)\n    return data\ndef extract_text_from_doc(path):\n    pdf = open(path, 'rb')\n    pdf_reader = PyPDF2.PdfReader(pdf)\n    total_pages = len(pdf_reader.pages)",
+        "detail": "OpenAI.process_all_images",
+        "documentation": {}
+    },
+    {
+        "label": "get_img_uri",
+        "kind": 2,
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "peekOfCode": "def get_img_uri(image):\n    buffer = BytesIO()\n    image.save(buffer, format=\"jpeg\")\n    base64_image = base64.b64encode(buffer.getvalue()).decode(\"utf-8\")\n    uri = f\"data:image/jpeg;base64,{base64_image}\"\n    return uri\n# Analyze an image by sending it to the OpenAI Chat API with a specific prompt for content description.\ndef analyze_image(image):\n    img_uri = get_img_uri(image)\n    response = openai.chat.completions.create(",
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_image",
+        "kind": 2,
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "peekOfCode": "def analyze_image(image):\n    img_uri = get_img_uri(image)\n    response = openai.chat.completions.create(\n        model=\"gpt-4-vision-preview\",\n        temperature=0,\n        messages=[\n            {\n                \"role\": \"system\",\n                \"content\": system_prompt\n            },",
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_doc_to_images",
+        "kind": 2,
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "peekOfCode": "def convert_doc_to_images(pdf_file):\n    # Create the directory if it does not exist\n    if not os.path.exists(IMAGES_DIRECTORY):\n        os.makedirs(IMAGES_DIRECTORY)\n    # Convert each PDF file into a series of images.\n    abs_path = PDF_DIRECTORY + str(pdf_file)\n    print(\"converting \", abs_path, \" to images...\")\n    images = convert_from_path(abs_path)\n    save_images(images, abs_path)\ndef save_images(pdf_images, directory_name):",
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_images",
+        "kind": 2,
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "peekOfCode": "def save_images(pdf_images, directory_name):\n    # Strip the file extension from the file name\n    file_name, file_extension = os.path.splitext(directory_name)\n    file_name = os.path.basename(file_name)\n    # Create the directory if it does not exist\n    if not os.path.exists(f\"{IMAGES_DIRECTORY}/{file_name}\"):\n        os.makedirs(f\"{IMAGES_DIRECTORY}/{file_name}\")\n    for i, img in enumerate(pdf_images):\n        img.save(f\"{IMAGES_DIRECTORY}/{file_name}/image_{i}.png\")",
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "peekOfCode": "openai.api_key = os.getenv('OPENAI_API_KEY')\nPDF_DIRECTORY = \"data/example_pdfs\"\nIMAGES_DIRECTORY = \"data/images\"\nsystem_prompt = '''\nYou will be provided with an image of a pdf page or a slide. Your goal is to talk about the content that you see, in technical terms, as if you were delivering a presentation.\nIf there are diagrams, describe the diagrams and explain their meaning.\nFor example: if there is a diagram describing a process flow, say something like \"the process flow starts with X then we have Y and Z...\"\nIf there are tables, describe logically the content in the tables\nFor example: if there is a table listing items and prices, say something like \"the prices are the following: A for X, B for Y...\"\nDO NOT include terms referring to the content format",
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "PDF_DIRECTORY",
+        "kind": 5,
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "peekOfCode": "PDF_DIRECTORY = \"data/example_pdfs\"\nIMAGES_DIRECTORY = \"data/images\"\nsystem_prompt = '''\nYou will be provided with an image of a pdf page or a slide. Your goal is to talk about the content that you see, in technical terms, as if you were delivering a presentation.\nIf there are diagrams, describe the diagrams and explain their meaning.\nFor example: if there is a diagram describing a process flow, say something like \"the process flow starts with X then we have Y and Z...\"\nIf there are tables, describe logically the content in the tables\nFor example: if there is a table listing items and prices, say something like \"the prices are the following: A for X, B for Y...\"\nDO NOT include terms referring to the content format\nDO NOT mention the content type - DO focus on the content itself",
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "IMAGES_DIRECTORY",
+        "kind": 5,
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "peekOfCode": "IMAGES_DIRECTORY = \"data/images\"\nsystem_prompt = '''\nYou will be provided with an image of a pdf page or a slide. Your goal is to talk about the content that you see, in technical terms, as if you were delivering a presentation.\nIf there are diagrams, describe the diagrams and explain their meaning.\nFor example: if there is a diagram describing a process flow, say something like \"the process flow starts with X then we have Y and Z...\"\nIf there are tables, describe logically the content in the tables\nFor example: if there is a table listing items and prices, say something like \"the prices are the following: A for X, B for Y...\"\nDO NOT include terms referring to the content format\nDO NOT mention the content type - DO focus on the content itself\nFor example: if there is a diagram/chart and text on the image, talk about both without mentioning that one is a chart and the other is text.",
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    },
+    {
+        "label": "system_prompt",
+        "kind": 5,
+        "importPath": "OpenAI.utils",
+        "description": "OpenAI.utils",
+        "peekOfCode": "system_prompt = '''\nYou will be provided with an image of a pdf page or a slide. Your goal is to talk about the content that you see, in technical terms, as if you were delivering a presentation.\nIf there are diagrams, describe the diagrams and explain their meaning.\nFor example: if there is a diagram describing a process flow, say something like \"the process flow starts with X then we have Y and Z...\"\nIf there are tables, describe logically the content in the tables\nFor example: if there is a table listing items and prices, say something like \"the prices are the following: A for X, B for Y...\"\nDO NOT include terms referring to the content format\nDO NOT mention the content type - DO focus on the content itself\nFor example: if there is a diagram/chart and text on the image, talk about both without mentioning that one is a chart and the other is text.\nSimply describe what you see in the diagram and what you understand from the text.",
+        "detail": "OpenAI.utils",
+        "documentation": {}
+    }
+]
