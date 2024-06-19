@@ -40,7 +40,7 @@ def iterate_docs():
     1. Retrieves a list of all PDF files in the PDF_DIRECTORY.
     2. Iterates through each PDF file in the directory.
     3. Opens each PDF file in binary read mode.
-    4. Calls the convert_doc_to_images function to convert the PDF into images.
+    4. Calls the convert_doc_to_images function to convert each PDF into images.
 
     Parameters:
     None
@@ -48,10 +48,9 @@ def iterate_docs():
     Returns:
     None
     """
-    # Get a list of all pdfs in the directory
+
     pdf_files = os.listdir(PDF_DIRECTORY)
 
-    # Iterate through each PDF file
     for pdf_file in pdf_files:
         with open(os.path.join(PDF_DIRECTORY, pdf_file), 'rb') as file:
             # Convert each PDF file into a series of images.
