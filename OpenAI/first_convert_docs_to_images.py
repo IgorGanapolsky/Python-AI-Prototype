@@ -8,6 +8,21 @@ from OpenAI.utils import PDF_DIRECTORY, IMAGES_DIRECTORY, save_images
 
 
 def convert_doc_to_images(pdf_file):
+    """
+    Convert a PDF document into a series of images.
+
+    This function performs the following steps:
+    1. Checks if the images directory exists, and creates it if it does not.
+    2. Converts the specified PDF file into a series of images.
+    3. Saves the images to a directory named after the PDF file (without extension).
+    4. Displays each image.
+
+    Parameters:
+    pdf_file (str): The name of the PDF file to be converted.
+
+    Returns:
+    None
+    """
     # Create the directory if it does not exist
     if not os.path.exists(IMAGES_DIRECTORY):
         os.makedirs(IMAGES_DIRECTORY)
